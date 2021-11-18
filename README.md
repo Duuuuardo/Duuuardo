@@ -1,4 +1,4 @@
-<img align="right" src="https://c.tenor.com/DHUMi9jNHVYAAAAS/pop-cat.gif" width="300"/>
+<img align="right" src="https://c.tenor.com/DHUMi9jNHVYAAAAS/pop-cat.gif" width="100"/>
 
 ## Oie!
 
