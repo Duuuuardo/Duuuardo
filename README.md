@@ -1,6 +1,6 @@
-<img align="right" src="https://c.tenor.com/DHUMi9jNHVYAAAAS/pop-cat.gif" width="100"/>
+<img align="right" src="https://c.tenor.com/DHUMi9jNHVYAAAAS/pop-cat.gif" width="200" height="200"/>
 
-## Oie!
+## 👋 Howdy!
 
 Oie, meu nome é Eduardo sou criador da [Mitsy](https://mitsy.website), tenho 16 anos e sou programador em diversas linguagens (apesar de usar mais kotlin/java e **javascript**) :heart:
 
