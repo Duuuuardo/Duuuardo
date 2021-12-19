@@ -2,7 +2,7 @@
 
 ## 👋 Howdy!
 
-Oie, meu nome é Eduardo sou criador da [Mitsy](https://mitsy.website), tenho 16 anos e sou programador em diversas linguagens (apesar de usar mais kotlin/java e **javascript**) :heart:
+Oie, meu nome é Eduardo sou criador da [Mitsy](https://mitsy.xyz), tenho 16 anos e sou programador em diversas linguagens (apesar de usar mais kotlin/java e **javascript**) :heart:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Duuuuardo&label=Vizualizações%20no%20perfil&color=0e75b6&style=flat" alt="duardo" /> </p>
 
