@@ -8,7 +8,7 @@ Oie, meu nome é Eduardo sou criador da [Mitsy](https://mitsy.xyz), tenho 16 ano
 
 
 - 👨‍💻 Você pode encontrar meus projetos em [https://duuuuardo.com](https://duuuuardo.com)
-- 🐧 I use arch btw
+- 🐧 I use windows btw
 
 <br>
 
