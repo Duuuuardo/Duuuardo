@@ -2,8 +2,7 @@
 
 ## 👋 Howdy!
 
-Oie, meu nome é Eduardo sou criador da [Mitsy](https://mitsy.xyz), tenho 16 anos e sou programador em diversas linguagens (apesar de usar mais kotlin/java e **javascript**) :heart:
-
+Oie, meu nome é Eduardo e sou programador backend (apesar de também saber programar frontend odeio alinhar divs)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Duuuuardo&label=Vizualizações%20no%20perfil&color=0e75b6&style=flat" alt="duardo" /> </p>
 
 
@@ -11,12 +10,8 @@ Oie, meu nome é Eduardo sou criador da [Mitsy](https://mitsy.xyz), tenho 16 ano
 - 🐧 I use arch btw
 <br>
 
-**Principais Linguagens e frameworks**
+**Principais Linguagens**
 
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Nuxt](https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -25,12 +20,9 @@ Oie, meu nome é Eduardo sou criador da [Mitsy](https://mitsy.xyz), tenho 16 ano
 ![Pgsql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Gradle](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-![Eslint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
 
 **Principais Ferramentas**
 
