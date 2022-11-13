@@ -2,7 +2,7 @@
 
 ## 👋 Howdy!
 
-Oie, meu nome é Eduardo e sou programador backend (apesar de também saber programar frontend odeio alinhar divs)
+Oie, meu nome é Eduardo e sou programador backend
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Duuuuardo&label=Vizualizações%20no%20perfil&color=0e75b6&style=flat" alt="duardo" /> </p>
 
 
