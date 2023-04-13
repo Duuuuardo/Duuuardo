@@ -6,7 +6,7 @@ Oie, meu nome é Eduardo e sou programador backend
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Duuuuardo&label=Vizualizações%20no%20perfil&color=0e75b6&style=flat" alt="duardo" /> </p>
 
 
-- 👨‍💻 Você pode encontrar meus projetos em [https://duuuuardo.com](https://duuuuardo.com)
+- 👨‍💻 Você pode encontrar meus projetos em [https://duuuuardo.com](https://duardo.xyz)
 - 🐧 I use arch btw
 <br>
 
