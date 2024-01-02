@@ -3,8 +3,6 @@
 ## 👋 Howdy!
 
 Howdy, my name is Eduardo and i am a Brazilian fullstack developer
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Duuuuardo&label=Vizualizações%20no%20perfil&color=0e75b6&style=flat" alt="duardo" /> </p>
-
 
 - 🐧 I use arch btw
 - [MY WEBSITE](https://duardo.xyz)
