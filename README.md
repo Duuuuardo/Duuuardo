@@ -7,6 +7,7 @@ Oie, meu nome é Eduardo e sou programador backend
 
 
 - 🐧 I use arch btw
+- [MY WEBSITE](https://duardo.xyz)
 <br>
 
 **Principais Linguagens**
