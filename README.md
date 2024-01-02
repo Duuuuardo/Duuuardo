@@ -1,4 +1,3 @@
-<img align="right" src="https://c.tenor.com/DHUMi9jNHVYAAAAS/pop-cat.gif" width="200" height="200"/>
 
 ## 👋 Howdy!
 
