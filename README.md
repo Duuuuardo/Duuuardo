@@ -2,7 +2,7 @@
 
 ## 👋 Howdy!
 
-Oie, meu nome é Eduardo e sou programador backend
+Howdy, my name is Eduardo and i am a Brazilian fullstack developer
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Duuuuardo&label=Vizualizações%20no%20perfil&color=0e75b6&style=flat" alt="duardo" /> </p>
 
 
@@ -10,7 +10,7 @@ Oie, meu nome é Eduardo e sou programador backend
 - [MY WEBSITE](https://duardo.xyz)
 <br>
 
-**Principais Linguagens**
+**LANGUAGES**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
@@ -25,7 +25,7 @@ Oie, meu nome é Eduardo e sou programador backend
 ![RUBY](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-**Principais Ferramentas**
+**TOOLS**
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VIM](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
