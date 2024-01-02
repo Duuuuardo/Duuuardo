@@ -1,7 +1,7 @@
 
 ## 👋 Howdy!
 
-Howdy, my name is Eduardo and i am a Brazilian fullstack developer
+Howdy, my name is Eduardo and I'm a Brazilian fullstack developer
 
 - 🐧 I use arch btw
 - [MY WEBSITE](https://duardo.xyz)
